@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_cSaBQLxwEeu0BOIq0Rujyw" label="JFM_DEMOS_SFDC" description="Talend SFDC demonstrations" language="java" technicalLabel="JFM_DEMOS_SFDC" author="_cSaBQbxwEeu0BOIq0Rujyw" productVersion="Talend Cloud Data Fabric-8.0.1.20220524_1230-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/jfmonteil/talend_demo_sfdc&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_cTj30LxwEeu0BOIq0Rujyw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_cSaBQbxwEeu0BOIq0Rujyw" login="jmonteil@jel.talend.com" firstName="Jean-François" lastName="Monteil" type="DQ"/>
+</xmi:XMI>
